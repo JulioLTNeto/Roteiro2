@@ -1,0 +1,114 @@
+# depslib dependency file v1.0
+1536179147 source:c:\users\aluno.ci-hp\documents\questao6\roteiro2\src\mesarestaurante.cpp
+	"MesaRestaurante.h"
+
+1534974207 c:\users\aluno.ci-hp\documents\questao6\roteiro2\include\mesarestaurante.h
+	"Pedido.h"
+
+1534973623 c:\users\aluno.ci-hp\documents\questao6\roteiro2\include\pedido.h
+	<string>
+
+1534974811 source:c:\users\aluno.ci-hp\documents\questao6\roteiro2\src\pedido.cpp
+	"Pedido.h"
+	<sstream>
+
+1534972841 source:c:\users\aluno.ci-hp\documents\questao6\roteiro2\src\restaurantecaseiro.cpp
+	"RestauranteCaseiro.h"
+
+1534972798 c:\users\aluno.ci-hp\documents\questao6\roteiro2\include\restaurantecaseiro.h
+	"Pedido.h"
+	"MesaRestaurante.h"
+
+1536181991 source:c:\users\aluno.ci-hp\documents\questao6\roteiro2\main.cpp
+	<iostream>
+	"Pedido.h"
+	"RestauranteCaseiro.h"
+	"Endereco.h"
+	"Pessoa.h"
+	"Consultor.h"
+	"Triangulo.h"
+	"Quadrado.h"
+	"Circulo.h"
+	"TrabalhadorAssalariado.h"
+	"TrabalhadorPorHora.h"
+	<string>
+	<stdlib.h>
+
+1535397863 source:c:\users\aluno.ci-hp\documents\questao6\roteiro2\src\cadastrodepessoas.cpp
+	"CadastroDePessoas.h"
+
+1535398400 c:\users\aluno.ci-hp\documents\questao6\roteiro2\include\cadastrodepessoas.h
+
+1536181899 source:c:\users\aluno.ci-hp\documents\questao6\roteiro2\src\endereco.cpp
+	"Endereco.h"
+	"sstream"
+
+1536181373 c:\users\aluno.ci-hp\documents\questao6\roteiro2\include\endereco.h
+	<string>
+
+1536181850 source:c:\users\aluno.ci-hp\documents\questao6\roteiro2\src\pessoa.cpp
+	"Pessoa.h"
+
+1535398815 c:\users\aluno.ci-hp\documents\questao6\roteiro2\include\pessoa.h
+	<string>
+	"Endereco.h"
+
+1536160222 c:\users\aluno.ci-hp\documents\questao6\roteiro2\include\consultor.h
+	"Funcionario.h"
+
+1536160222 c:\users\aluno.ci-hp\documents\questao6\roteiro2\include\funcionario.h
+	<string>
+
+1536160230 c:\users\aluno.ci-hp\documents\questao6\roteiro2\include\triangulo.h
+	"FiguraGeometrica.h"
+
+1536160230 c:\users\aluno.ci-hp\documents\questao6\roteiro2\include\figurageometrica.h
+	<string>
+
+1536160230 c:\users\aluno.ci-hp\documents\questao6\roteiro2\include\quadrado.h
+	"FiguraGeometrica.h"
+
+1536160228 c:\users\aluno.ci-hp\documents\questao6\roteiro2\include\circulo.h
+	"FiguraGeometrica.h"
+
+1536160238 c:\users\aluno.ci-hp\documents\questao6\roteiro2\include\trabalhadorassalariado.h
+	"Trabalhador.h"
+
+1536160238 c:\users\aluno.ci-hp\documents\questao6\roteiro2\include\trabalhador.h
+	<string>
+
+1536160240 c:\users\aluno.ci-hp\documents\questao6\roteiro2\include\trabalhadorporhora.h
+	"Trabalhador.h"
+
+1536160228 source:c:\users\aluno.ci-hp\documents\questao6\roteiro2\src\circulo.cpp
+	"Circulo.h"
+
+1536160222 source:c:\users\aluno.ci-hp\documents\questao6\roteiro2\src\consultor.cpp
+	"Consultor.h"
+
+1536160228 source:c:\users\aluno.ci-hp\documents\questao6\roteiro2\src\figurageometrica.cpp
+	"FiguraGeometrica.h"
+
+1536160222 source:c:\users\aluno.ci-hp\documents\questao6\roteiro2\src\funcionario.cpp
+	"Funcionario.h"
+
+1534968666 source:c:\users\aluno.ci-hp\documents\questao6\roteiro2\src\mesapedido.cpp
+	"MesaPedido.h"
+
+1534968666 c:\users\aluno.ci-hp\documents\questao6\roteiro2\include\mesapedido.h
+
+1536160228 source:c:\users\aluno.ci-hp\documents\questao6\roteiro2\src\quadrado.cpp
+	"Quadrado.h"
+
+1536160238 source:c:\users\aluno.ci-hp\documents\questao6\roteiro2\src\trabalhador.cpp
+	"Trabalhador.h"
+
+1536160228 source:c:\users\aluno.ci-hp\documents\questao6\roteiro2\src\triangulo.cpp
+	"Triangulo.h"
+
+1536181178 source:c:\users\aluno.ci-hp\documents\questao6\roteiro2\src\trabalhadorassalariado.cpp
+	"TrabalhadorAssalariado.h"
+
+1536181195 source:c:\users\aluno.ci-hp\documents\questao6\roteiro2\src\trabalhadorporhora.cpp
+	"TrabalhadorPorHora.h"
+
